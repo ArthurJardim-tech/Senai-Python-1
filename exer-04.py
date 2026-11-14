@@ -1,6 +1,6 @@
 #Receba nome, cargo e salário e acrescente 10%
 nome=input("Digite seu nome:")
-cargo=input("Digite seu nome:")
+cargo=input("Digite seu cargo:")
 salário=float(input("Digite seu salário:"))
 
 #construção
